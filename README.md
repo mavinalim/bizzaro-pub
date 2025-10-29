@@ -34,6 +34,9 @@
 - Stop: `F10`
 - Only one skill action runs at any time (serialized execution).
 - Spam option: If enabled, it forces cooldown 0 for rapid keying. Use carefully.
+ - Set Minimap Point1 from current position: `F6`
+ - Set Minimap Point2 from current position: `F7`
+ - Re-find minimap region and refresh preview: `F8`
 
 ---
 
